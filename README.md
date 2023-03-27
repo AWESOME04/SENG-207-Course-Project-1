@@ -12,7 +12,8 @@ This repository contains code for analyzing a dataset of all inventories of red 
 ## Objective
 
 The objective of this project is to perform exploratory data analysis on the provided dataset and make a presentation to the investors at the end of the year meeting.
-Getting Started
+
+## Getting Started
 
 Clone the repository:
 
