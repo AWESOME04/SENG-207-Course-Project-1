@@ -15,7 +15,7 @@ Getting Started
 
 Clone the repository:
 
-        git clone https://github.com/yourusername/beverage-manufacturing-data-analysis.git
+        git clone https://github.com/AWESOME04/SENG-207-Course-Project-1.git
 
 Install the required dependencies:
 
