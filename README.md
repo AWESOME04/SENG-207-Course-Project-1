@@ -11,14 +11,13 @@ Objective
 The objective of this project is to perform exploratory data analysis on the provided dataset and make a presentation to the investors at the end of the year meeting.
 Getting Started
 
-    Clone the repository:
+Clone the repository:
 
-
-  git clone https://github.com/yourusername/beverage-manufacturing-data-analysis.git
+        git clone https://github.com/yourusername/beverage-manufacturing-data-analysis.git
 
 Install the required dependencies:
 
-  pip install pandas matplotlib
+        pip install pandas matplotlib
 
 
 Data Analysis
