@@ -1,6 +1,8 @@
 # SENG-207-Course-Project-1
 This repo contains resources including Jupyter Notebook files for exploatory data analysis on a dataset for Programming for Engineers College Course.
 
+![4833 1523705164](https://user-images.githubusercontent.com/102630199/228002213-3e500719-b1d6-4655-a04e-a99f8de2ef82.jpg)
+
 
 Beverage Manufacturing Company - Data Analysis
 
